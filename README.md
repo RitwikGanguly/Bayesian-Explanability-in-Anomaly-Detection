@@ -1,3 +1,5 @@
+![vbh](https://www.birlasoft.com/sites/default/files/common/explainable-ai.jpg)
+
 # Bayesian Explainability for Real-Time Anomaly Detection in Medical Diagnostics
 ## Introduction:
 In the modern landscape of healthcare, patient safety and quality of care have become 
